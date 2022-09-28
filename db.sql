@@ -1,0 +1,33 @@
+﻿CREATE TABLE Authors(
+	AuthorId INT IDENTITY  PRIMARY KEY,
+	Authorname NVARCHAR(40) NOT NULL
+)
+
+CREATE TABLE Topics(
+	TopicId INT IDENTITY PRIMARY KEY,
+	TopicName NVARCHAR(40) NOT NULL
+)
+
+CREATE TABLE Publishers(
+	Publisherid INT IDENTITY  PRIMARY KEY,
+	PublisherName NVARCHAR(40) NOT NULL,
+        Address NVARCHAR (50) NOT NULL,
+        Email NVARCHAR(50) NOT NULL 
+)
+
+CREATE TABLE Books(
+	BookID INT IDENTITY NOT NULL PRIMARY KEY,
+	BookName NVARCHAR(40) NOT NULL,
+	Picture NVARCHAR(200) NOT NULL,
+	PublishDateNo DATE  NOT NULL,
+	Available BIT ,
+	Publisherid	INT NOT NULL REFERENCES Publishers(Publisherid)
+)
+
+
+CREATE TABLE AuthorBooks(
+	AuthorId INT  NOT NULL REFERENCES Authors(AuthorId),
+	BookID INT NOT NULL REFERENCES  Books(BookID),
+	PRIMARY KEY (authorId,BookID)
+)
+

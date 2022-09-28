@@ -1,0 +1,2 @@
+L:\ASP.NET PROJECT\Project\BookRepository_Project\obj\Debug\BookRepository_Project.dll
+L:\ASP.NET PROJECT\Project\BookRepository_Project\obj\Debug\BookRepository_Project.pdb

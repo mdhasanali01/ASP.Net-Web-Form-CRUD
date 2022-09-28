@@ -1,0 +1,902 @@
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\BookRepository_Project.dll.config
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\BookRepository_Project.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\BookRepository_Project.pdb
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csc.exe
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csc.exe.config
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csc.rsp
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csi.exe
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csi.exe.config
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csi.rsp
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.Managed.Core.targets
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.AppContext.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Collections.Immutable.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Console.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Globalization.Calendars.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.IO.Compression.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.IO.Compression.ZipFile.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.IO.FileSystem.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Net.Http.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Net.Sockets.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Reflection.Metadata.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.ValueTuple.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Xml.ReaderWriter.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Xml.XmlDocument.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Xml.XPath.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\vbc.exe
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\vbc.exe.config
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\vbc.rsp
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\VBCSCompiler.exe
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\VBCSCompiler.exe.config
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.AspNet.FriendlyUrls.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.AspNet.FriendlyUrls.xml
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\obj\Debug\BookRepository_Project.csproj.CoreCompileInputs.cache
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\obj\Debug\BookRepository_Project.csproj.CopyComplete
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\obj\Debug\BookRepository_Project.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\obj\Debug\BookRepository_Project.pdb
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\BookRepository_Project.dll.config
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\BookRepository_Project.dll
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\BookRepository_Project.pdb
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csc.exe
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csc.exe.config
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csc.rsp
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csi.exe
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csi.exe.config
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csi.rsp
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.Managed.Core.targets
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.AppContext.dll
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Collections.Immutable.dll
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Console.dll
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Globalization.Calendars.dll
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.IO.Compression.dll
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.IO.Compression.ZipFile.dll
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.IO.FileSystem.dll
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Net.Http.dll
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Net.Sockets.dll
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Reflection.Metadata.dll
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.ValueTuple.dll
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Xml.ReaderWriter.dll
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Xml.XmlDocument.dll
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Xml.XPath.dll
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\vbc.exe
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\vbc.exe.config
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\vbc.rsp
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\VBCSCompiler.exe
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\VBCSCompiler.exe.config
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.AspNet.FriendlyUrls.dll
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.AspNet.FriendlyUrls.xml
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\obj\Debug\BookRepository_Project.csproj.CoreCompileInputs.cache
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\obj\Debug\BookRepository_Project.dll
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\obj\Debug\BookRepository_Project.pdb
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\BookRepository_Project.dll.config
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\BookRepository_Project.dll
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\BookRepository_Project.pdb
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csc.exe
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csc.exe.config
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csc.rsp
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csi.exe
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csi.exe.config
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csi.rsp
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.Managed.Core.targets
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.AppContext.dll
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Collections.Immutable.dll
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Console.dll
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Globalization.Calendars.dll
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.IO.Compression.dll
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.IO.Compression.ZipFile.dll
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.IO.FileSystem.dll
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Net.Http.dll
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Net.Sockets.dll
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Reflection.Metadata.dll
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.ValueTuple.dll
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Xml.ReaderWriter.dll
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Xml.XmlDocument.dll
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Xml.XPath.dll
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\vbc.exe
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\vbc.exe.config
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\vbc.rsp
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\VBCSCompiler.exe
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\VBCSCompiler.exe.config
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.AspNet.FriendlyUrls.dll
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.AspNet.FriendlyUrls.xml
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\obj\Debug\BookRepository_Project.csproj.CoreCompileInputs.cache
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\obj\Debug\BookRepository_Project.dll
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\obj\Debug\BookRepository_Project.pdb
+I:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\obj\Debug\BookRepository_Project.csproj.AssemblyReference.cache
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\BookRepository_Project.dll.config
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\BookRepository_Project.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\BookRepository_Project.pdb
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csc.exe
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csc.exe.config
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csc.rsp
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csi.exe
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csi.exe.config
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csi.rsp
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.AppContext.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Console.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.IO.Compression.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Net.Http.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Net.Sockets.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.ValueTuple.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\vbc.exe
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\vbc.exe.config
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\vbc.rsp
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\obj\Debug\BookRepository_Project.csproj.CoreCompileInputs.cache
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\obj\Debug\BookRepository_Project.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\obj\Debug\BookRepository_Project.pdb
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\BookRepository_Project\BookRepository_Project\obj\Debug\BookRepository_Project.csproj.AssemblyReference.cache
+F:\Project\BookRepository_Project\BookRepository_Project\bin\BookRepository_Project.dll.config
+F:\Project\BookRepository_Project\BookRepository_Project\bin\BookRepository_Project.dll
+F:\Project\BookRepository_Project\BookRepository_Project\bin\BookRepository_Project.pdb
+F:\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csc.exe
+F:\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csc.exe.config
+F:\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csc.rsp
+F:\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csi.exe
+F:\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csi.exe.config
+F:\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csi.rsp
+F:\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.AppContext.dll
+F:\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Collections.Immutable.dll
+F:\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Console.dll
+F:\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Globalization.Calendars.dll
+F:\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.IO.Compression.dll
+F:\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.IO.FileSystem.dll
+F:\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Net.Http.dll
+F:\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Net.Sockets.dll
+F:\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Reflection.Metadata.dll
+F:\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.ValueTuple.dll
+F:\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Xml.XPath.dll
+F:\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\vbc.exe
+F:\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\vbc.exe.config
+F:\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\vbc.rsp
+F:\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\VBCSCompiler.exe
+F:\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\VBCSCompiler.exe.config
+F:\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Project\BookRepository_Project\BookRepository_Project\obj\Debug\BookRepository_Project.csproj.AssemblyReference.cache
+F:\Project\BookRepository_Project\BookRepository_Project\obj\Debug\BookRepository_Project.csproj.CoreCompileInputs.cache
+F:\Project\BookRepository_Project\BookRepository_Project\obj\Debug\BookRepository_Project.dll
+F:\Project\BookRepository_Project\BookRepository_Project\obj\Debug\BookRepository_Project.pdb
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\BookRepository_Project.dll.config
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\BookRepository_Project.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\BookRepository_Project.pdb
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csc.exe
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csc.exe.config
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csc.rsp
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csi.exe
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csi.exe.config
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csi.rsp
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.AppContext.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Console.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.IO.Compression.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Net.Http.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Net.Sockets.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.ValueTuple.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\vbc.exe
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\vbc.exe.config
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\vbc.rsp
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\obj\Debug\BookRepository_Project.csproj.CoreCompileInputs.cache
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\obj\Debug\BookRepository_Project.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\obj\Debug\BookRepository_Project.pdb
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportSource.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.Shared.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\stdole.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.Web.dll
+C:\Users\NAYAN SAHA\OneDrive\Desktop\Project\Project\BookRepository_Project\BookRepository_Project\obj\Debug\BookRepository_Project.csproj.CopyComplete
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.CrystalReports.Engine.dll
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportSource.dll
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.Shared.dll
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.Web.dll
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\stdole.dll
+J:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\obj\Debug\BookRepository_Project.csproj.AssemblyReference.cache
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.CrystalReports.Engine.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportSource.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.Shared.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.Web.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\stdole.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\EntityFramework.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\EntityFramework.SqlServer.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.AspNet.Identity.Core.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.Owin.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.Owin.Host.SystemWeb.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.Owin.Security.Cookies.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.Owin.Security.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Owin.dll
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\EntityFramework.xml
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\EntityFramework.SqlServer.xml
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.AspNet.Identity.Core.xml
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.Owin.xml
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.Owin.Host.SystemWeb.xml
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.Owin.Security.xml
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.Owin.Security.Cookies.xml
+M:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\obj\Debug\BookRepository_Project.csproj.AssemblyReference.cache
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\BookRepository_Project.dll.config
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\BookRepository_Project.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\BookRepository_Project.pdb
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csc.exe
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csc.exe.config
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csc.rsp
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csi.exe
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csi.exe.config
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csi.rsp
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.Managed.Core.targets
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.AppContext.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Collections.Immutable.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Console.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Globalization.Calendars.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.IO.Compression.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.IO.FileSystem.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Net.Http.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Net.Sockets.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Reflection.Metadata.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.ValueTuple.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Xml.XPath.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\vbc.exe
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\vbc.exe.config
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\vbc.rsp
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\VBCSCompiler.exe
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\VBCSCompiler.exe.config
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.CrystalReports.Engine.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportSource.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.Shared.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.Web.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\EntityFramework.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\EntityFramework.SqlServer.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.Owin.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.Owin.Security.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Owin.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\stdole.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\EntityFramework.xml
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\EntityFramework.SqlServer.xml
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.Owin.xml
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.Owin.Security.xml
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\obj\Debug\BookRepository_Project.csproj.CoreCompileInputs.cache
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\obj\Debug\BookRepository_Project.csproj.CopyComplete
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\obj\Debug\BookRepository_Project.dll
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\obj\Debug\BookRepository_Project.pdb
+G:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\obj\Debug\BookRepository_Project.csproj.AssemblyReference.cache
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\BookRepository_Project.dll.config
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\BookRepository_Project.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\BookRepository_Project.pdb
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csc.exe
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csc.exe.config
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csc.rsp
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csi.exe
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csi.exe.config
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csi.rsp
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.Managed.Core.targets
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.AppContext.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Collections.Immutable.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Console.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Globalization.Calendars.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.IO.Compression.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.IO.Compression.ZipFile.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.IO.FileSystem.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Net.Http.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Net.Sockets.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Reflection.Metadata.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.ValueTuple.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Xml.ReaderWriter.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Xml.XmlDocument.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Xml.XPath.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\vbc.exe
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\vbc.exe.config
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\vbc.rsp
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\VBCSCompiler.exe
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\VBCSCompiler.exe.config
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.CrystalReports.Engine.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportSource.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.Shared.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.Web.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\EntityFramework.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\EntityFramework.SqlServer.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.AspNet.FriendlyUrls.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.AspNet.Identity.Core.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.Owin.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.Owin.Host.SystemWeb.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.Owin.Security.Cookies.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.Owin.Security.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Owin.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\stdole.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\EntityFramework.xml
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\EntityFramework.SqlServer.xml
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.AspNet.FriendlyUrls.xml
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.AspNet.Identity.Core.xml
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.Owin.xml
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.Owin.Host.SystemWeb.xml
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.Owin.Security.xml
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.Owin.Security.Cookies.xml
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\obj\Debug\BookRepository_Project.csproj.CoreCompileInputs.cache
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\obj\Debug\BookRepository_Project.csproj.CopyComplete
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\obj\Debug\BookRepository_Project.dll
+K:\Module_06_ASP.Net\Project\BookRepository_Project\BookRepository_Project\obj\Debug\BookRepository_Project.pdb
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\BookRepository_Project.dll.config
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\BookRepository_Project.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\BookRepository_Project.pdb
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csc.exe
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csc.exe.config
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csc.rsp
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csi.exe
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csi.exe.config
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csi.rsp
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.AppContext.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Console.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Net.Http.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\vbc.exe
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\vbc.exe.config
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\vbc.rsp
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportSource.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.Shared.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.Web.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\EntityFramework.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\EntityFramework.SqlServer.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.Owin.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.Owin.Security.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\Owin.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\stdole.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\EntityFramework.xml
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\EntityFramework.SqlServer.xml
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.Owin.xml
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.Owin.Security.xml
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\obj\Debug\BookRepository_Project.csproj.AssemblyReference.cache
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\obj\Debug\BookRepository_Project.csproj.CoreCompileInputs.cache
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\obj\Debug\BookRepository_Project.csproj.CopyComplete
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\obj\Debug\BookRepository_Project.dll
+C:\Users\Sakib\Desktop\Project\BookRepository_Project\BookRepository_Project\obj\Debug\BookRepository_Project.pdb
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\BookRepository_Project.dll.config
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\BookRepository_Project.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\BookRepository_Project.pdb
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csc.exe
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csc.exe.config
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csc.rsp
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csi.exe
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csi.exe.config
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csi.rsp
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.Managed.Core.targets
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.AppContext.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Collections.Immutable.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Console.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Globalization.Calendars.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.IO.Compression.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.IO.Compression.ZipFile.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.IO.FileSystem.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Net.Http.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Net.Sockets.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Reflection.Metadata.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.ValueTuple.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Xml.ReaderWriter.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Xml.XmlDocument.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Xml.XPath.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\vbc.exe
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\vbc.exe.config
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\vbc.rsp
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\VBCSCompiler.exe
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\VBCSCompiler.exe.config
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.CrystalReports.Engine.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportSource.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.Shared.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.Web.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\EntityFramework.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\EntityFramework.SqlServer.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.AspNet.FriendlyUrls.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.AspNet.Identity.Core.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.Owin.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.Owin.Host.SystemWeb.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.Owin.Security.Cookies.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.Owin.Security.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\Owin.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\stdole.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\EntityFramework.xml
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\EntityFramework.SqlServer.xml
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.AspNet.FriendlyUrls.xml
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.AspNet.Identity.Core.xml
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.Owin.xml
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.Owin.Host.SystemWeb.xml
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.Owin.Security.xml
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.Owin.Security.Cookies.xml
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\obj\Debug\BookRepository_Project.csproj.AssemblyReference.cache
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\obj\Debug\BookRepository_Project.csproj.CoreCompileInputs.cache
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\obj\Debug\BookRepository_Project.dll
+K:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\obj\Debug\BookRepository_Project.pdb
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\BookRepository_Project.dll.config
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\BookRepository_Project.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\BookRepository_Project.pdb
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csc.exe
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csc.exe.config
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csc.rsp
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csi.exe
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csi.exe.config
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\csi.rsp
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.Managed.Core.targets
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.AppContext.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Collections.Immutable.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Console.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Globalization.Calendars.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.IO.Compression.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.IO.Compression.ZipFile.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.IO.FileSystem.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Net.Http.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Net.Sockets.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Reflection.Metadata.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.ValueTuple.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Xml.ReaderWriter.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Xml.XmlDocument.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Xml.XPath.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\vbc.exe
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\vbc.exe.config
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\vbc.rsp
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\VBCSCompiler.exe
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\roslyn\VBCSCompiler.exe.config
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.CrystalReports.Engine.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportSource.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.Shared.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.Web.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\EntityFramework.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\EntityFramework.SqlServer.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.AspNet.FriendlyUrls.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.AspNet.Identity.Core.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.Owin.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.Owin.Security.Cookies.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.Owin.Security.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\Owin.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\stdole.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\EntityFramework.xml
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\EntityFramework.SqlServer.xml
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.AspNet.FriendlyUrls.xml
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.AspNet.Identity.Core.xml
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.Owin.xml
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.Owin.Security.xml
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.Owin.Security.Cookies.xml
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\obj\Debug\BookRepository_Project.csproj.AssemblyReference.cache
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\obj\Debug\BookRepository_Project.csproj.CoreCompileInputs.cache
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\obj\Debug\BookRepository_Project.csproj.CopyComplete
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\obj\Debug\BookRepository_Project.dll
+I:\ASP.NET PROJECT\Project\BookRepository_Project\BookRepository_Project\obj\Debug\BookRepository_Project.pdb
